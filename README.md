@@ -54,8 +54,6 @@ https://kovan.etherscan.io/tx/0x755b84a8a61fd82c1410f6bbbb452c94ddf12fac5b1daaa1
 ```
 
 # Disclaimer
-This tool is not affiliated with https://poa.network
-This is a personal project of Roman Storm.
 
 He is not responsible for any loss from transactions derived by MultiSender.  Some of the underlying JavaScript libraries and Ethereum tools that were used are under active development. The website and smart contract has been thoroughly tested, there is always the possibility something unexpected happens resulting in losses of Ethereum and/or tokens.
 
